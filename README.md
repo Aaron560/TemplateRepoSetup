@@ -21,9 +21,9 @@ Describe how to install all development dependencies and how to run an automated
 
 ## Meta
 
-Your Name – [@Twitter](https://twitter.com/Blinker11696) – aaron.ashcraft7@gmail.com
+Aaron– [@Twitter](https://twitter.com/Blinker11696) – aaron.ashcraft7@gmail.com
 
-Distributed under the XYZ license. See ``LICENSE`` for more information.
+Distributed under the GNU license. See ``LICENSE`` for more information.
 
 [https://github.com/Aaron560](https://github.com/Aaron560)
 
